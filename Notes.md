@@ -36,3 +36,4 @@
 
 
 LLC + MAC https://noname430.narod.ru/2-2.htm
+Немного про стандарты Ethernet https://studfile.net/preview/1095663/page:65/
