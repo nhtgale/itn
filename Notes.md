@@ -37,3 +37,5 @@
 
 LLC + MAC https://noname430.narod.ru/2-2.htm
 Немного про стандарты Ethernet https://studfile.net/preview/1095663/page:65/
+1000base - https://studfile.net/preview/1095663/page:65/
+learngit - https://learngitbranching.js.org/?locale=ru_RU
